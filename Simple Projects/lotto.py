@@ -40,6 +40,6 @@ for i in range(3):
     else:
         print("Brak trafień. Spróbuj jeszcze raz!")
 
-    print("\n" + "x" * 40 + "\n")  # wydrukuj 40 znaków x
+    print("\n" + "x" * 40 + "\n")
 
 print("Wylosowane liczby:", liczby)
